@@ -1,0 +1,11 @@
+Resource 1: https://developers.google.com/web/tools/chrome-devtools
+Resource 2: https://umaar.com/dev-tips/
+Resource 3: https://www.youtube.com/watch?v=oYvtsHu6GmY
+
+Modules learn things,
+2. dev tool element tab, edit HTML, get style, device tab
+3. edit CSS style live, hover class, CSS box model, event handler
+4. sources tab, break point, call stack, console table
+5. console tab, preserve log, error log, console api
+6. network tab, request method, header, response type
+7. Performance tab, memory tab, Audit, application tab
